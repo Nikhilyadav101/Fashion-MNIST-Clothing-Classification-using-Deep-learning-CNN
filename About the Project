@@ -1,5 +1,6 @@
-# Fashion-MNIST-Clothing-Classification-using-Deep-learning-CNN
+**Fashion-MNIST-Clothing-Classification-using-Deep-learning-CNN**
 Convolutional Neural Network (CNN) with Keras on the Fashion MNIST dataset, enabling you to classify fashion images and categories.
+Data source - https://www.kaggle.com/zalando-research/fashionmnist
 
 The Fashion MNIST dataset includes:
 
